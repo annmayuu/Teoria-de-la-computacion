@@ -1,0 +1,7 @@
+A2 = A1 + 12 + C5 ;
+Var1 = Var2 = Var3 = 8 ;
+VAR = ( CatA + ( ( CatA + CatB ) * CatC ) ) * ( CatD - CatF ) ;
+3 = A2 = 1 + 12 + C5 ;
+x = 0xAAFF00 * var + x ;
+VAR = ( CatA + ( ( CatA + CatB ) * CatC ) ) * ( CatD - CatF ;
+typedef = val1 % val2 ;

@@ -4,3 +4,7 @@ La clase consiste de 5 practicas (3 obligatorias y 2 opcionales). Por cuestiones
 Si gustas ayudar a otros puedes mandarme mensaje con la practica
 
 Ocupa los codigos como quieras, aunque ten en cuenta que es probable que te hagan preguntas sobre el codigo.
+
+Espero te puedan servir (Especialmente la opcional 1, y la practica 3)
+
+-May

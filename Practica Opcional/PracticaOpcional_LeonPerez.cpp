@@ -447,7 +447,7 @@ void mergeMaps(int target ,int source){
         -el id del nodo que voy a resolver
 
     REGRESA:
-        En teoria un void? porque nunca te regresa un mapa como tal, pero si trabaja
+        Un void porque nunca te regresa un mapa como tal, pero si trabaja
         con ellos sobre una variable global porque es mas facil que estar
         enviando mapas cada vez que yo llame a la funcion
 
@@ -533,10 +533,10 @@ int main() {
     string cline, filename;
     cout<<"Archivo: ";
     cin>>filename;
-    /*Contador de q linea voy*/
+    /*Contador de que linea voy*/
     int l=1;
 
-    /*auxiliar(es) para lidiar con el formato culero*/
+    /*auxiliar(es) para lidiar con el formato feo de entrada*/
     vector<string> clean;
     map<int,string> current;
 
